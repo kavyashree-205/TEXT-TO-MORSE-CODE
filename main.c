@@ -7,7 +7,7 @@ char word[100];
 
 char input(){
     printf("\n");
-    printf("ENTER THE TEXT TO CONVERT TO MORSE CODE WITHOUT SPACES: ");
+    printf("ENTER THE TEXT TO CONVERT TO MORSE CODE WITHOUT ANY SPACES: ");
     scanf("%s",word);
 }
 
